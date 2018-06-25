@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="acceptance" tests="5" assertions="6" errors="0" failures="0" skipped="0" time="67.306130">
+    <testcase file="/Users/hemantbanafal/Codeception/tests/acceptance/TestCurrencyChangeCest.php" name="testCurrencyChange" class="TestCurrencyChangeCest" feature="test currency change" assertions="1" time="15.155605"/>
+    <testcase file="/Users/hemantbanafal/Codeception/tests/acceptance/TestLoginCest.php" name="testLogin" class="TestLoginCest" feature="test login" assertions="2" time="14.723757"/>
+    <testcase file="/Users/hemantbanafal/Codeception/tests/acceptance/TestPaginationCest.php" name="testPagination" class="TestPaginationCest" feature="test pagination" assertions="1" time="9.664182"/>
+    <testcase file="/Users/hemantbanafal/Codeception/tests/acceptance/TestRedirectionCest.php" name="testRedirection" class="TestRedirectionCest" feature="test redirection" assertions="1" time="21.548927"/>
+    <testcase file="/Users/hemantbanafal/Codeception/tests/acceptance/TestSearchCest.php" name="testSearch" class="TestSearchCest" feature="test search" assertions="1" time="6.213659"/>
+  </testsuite>
+</testsuites>
