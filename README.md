@@ -10,3 +10,7 @@ Steps to run test cases :
 4. Run test cases using command : vendor/bin/codecept run --steps --xml --html
 5. Check reports in TrivagoAssignment/tests/_output/report.html
 
+
+
+Please find the test report using the below mentioned url:
+https://github.com/pankhuri1110/TrivagoAssignment/blob/master/tests/_output/report.html
